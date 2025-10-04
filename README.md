@@ -45,7 +45,7 @@ bakery-orders-pipeline
 
 ## Pipeline Diagram
 
-![Snowflake ETL Pipeline Diagram](docs\bakery_orders_pipeline.jpg)
+![Snowflake ETL Pipeline Diagram](docs/bakery_orders_pipeline.jpg)
 
 
 ## Sample Data
