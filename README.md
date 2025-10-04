@@ -43,7 +43,10 @@ bakery-orders-pipeline
 - **Presentation Layer:** Summarize orders in the final table for reporting and analytics.
 - **Automation:** Use Snowflake tasks for scheduled pipeline execution.
 
-See [`docs/pipeline_diagram.png`](docs/bakery_orders_pipeline.png) for a visual overview.
+## Pipeline Diagram
+
+![Snowflake ETL Pipeline Diagram](docs/pipeline_diagram.png)
+
 
 ## Sample Data
 
